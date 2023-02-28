@@ -14,5 +14,10 @@ Identify the factors that affect the possibility of showing up for the appointme
 
 ### Asking questions
 <br> - **Do people with welfare program showed up more than those who don't?**
-<br> - Is there a relation between gender and showing up?
-<br> - is there a relation between age and showing up?
+<br> - **Is there a relation between gender and showing up?**
+<br> - **Is there a relation between age and showing up?**
+<br> - **Do people who recived an sms show up more?**
+
+### Answering the questions
+Instead of writing the steps to answer these question you can view them in details in the notebook
+  

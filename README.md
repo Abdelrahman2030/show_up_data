@@ -13,6 +13,6 @@ Identify the factors that affect the possibility of showing up for the appointme
 <br> besides some other small things, the data set was clean and didn't need more cleaning.
 
 ### Asking questions
-<br> - Do people with welfare program showed up more than those who don't?
+<br> - **Do people with welfare program showed up more than those who don't?**
 <br> - Is there a relation between gender and showing up?
 <br> - is there a relation between age and showing up?
